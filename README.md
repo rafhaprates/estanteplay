@@ -1,6 +1,6 @@
 # Projeto EstantePlay 
 
-![EstantePlay] (/img/logo-estante-play.png)
+![EstantePlay](https://i.ibb.co/ssBcBYq/logo-estante-play.png")
 
 
 ## Sobre o Projeto
